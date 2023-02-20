@@ -1,0 +1,32 @@
+.container{
+    padding: 20px;
+    border: 1px solid black;
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: auto;
+
+}
+
+.upper {
+
+}
+
+.upper div {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 300px;
+
+}
+
+
+
+
+
+
+.lower {
+    padding: 10px;
+
+}
